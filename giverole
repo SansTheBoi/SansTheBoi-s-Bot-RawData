@@ -1,0 +1,2 @@
+
+{"name":"giverole","permissions":"MANAGE_ROLES","restriction":"1","actions":[{"member":"0","varName":"","role":"0","varName2":"","iftrue":"0","iftrueVal":"4","iffalse":"3","iffalseVal":"2","name":"Check If Member has Role"},{"channel":"0","varName":"","message":"Member has this role","storage":"0","varName2":"","name":"Send Message"},{"name":"End Action Sequence"},{"member":"0","varName2":"","role":"0","varName":"","name":"Add Member Role"},{"channel":"0","varName":"","message":"Member get the role!","storage":"0","varName2":"","name":"Send Message"}]}
