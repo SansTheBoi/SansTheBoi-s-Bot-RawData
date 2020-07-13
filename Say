@@ -1,0 +1,1 @@
+{"name":"say","permissions":"NONE","restriction":"1","actions":[{"info":"1","infoIndex":"1","storage":"1","varName":"say","name":"Store Command Params"},{"channel":"0","varName":"","message":"${tempVars(\"say\")}","storage":"0","varName2":"","name":"Send Message"}]}
