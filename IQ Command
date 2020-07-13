@@ -1,0 +1,1 @@
+{"name":"iq","permissions":"NONE","restriction":"1","actions":[{"storage":"1","varName":"num","min":"0","max":"200","name":"Generate Random Number"},{"channel":"0","varName":"","message":"יש לך ${tempVars(\"num\")} IQ ${member}","storage":"0","varName2":"","name":"Send Message"}]}
